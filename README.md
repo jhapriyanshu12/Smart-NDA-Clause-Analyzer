@@ -41,5 +41,5 @@ It should be noted that the project serves educational and training purposes. Th
 ## Limitations
 This is an educational prototype, not a legal service. AI output can be incomplete or inaccurate and is not legal advice. It does not determine whether an agreement is enforceable. Scanned PDFs need OCR, which is not included. Documents are limited to 45,000 extracted characters and 15 MB per upload in the interface. Review the report and consult a qualified legal professional before relying on any finding or signing an agreement.
 
-##Developer 
-- JHA PRIYANSHU
+## Developer
+**JHA PRIYANSHU**
