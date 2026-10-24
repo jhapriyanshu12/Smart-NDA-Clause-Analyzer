@@ -1,0 +1,32 @@
+SAMPLE NON-DISCLOSURE AGREEMENT
+For classroom software testing only — fictional text.
+
+1. Purpose
+The parties may exchange confidential information solely to evaluate a possible business relationship.
+
+2. Confidential Information
+Confidential information includes non-public business, technical, and financial information disclosed in written or oral form and identified as confidential where reasonably practicable.
+
+3. Permitted Use
+The receiving party may use confidential information only for the purpose stated in this agreement.
+
+4. Exclusions
+Confidential information does not include information that becomes public without breach, was lawfully known before disclosure, is independently developed without use of confidential information, or is lawfully received from another source without a duty of confidentiality.
+
+5. Protection
+The receiving party will use reasonable care to protect confidential information and will limit access to people who need it for the stated purpose and are subject to appropriate confidentiality duties.
+
+6. Duration
+This agreement remains in effect for two years. Confidentiality duties for information disclosed during the term continue for three years after the agreement ends.
+
+7. Return or Deletion
+Upon written request, the receiving party will return or delete confidential information, except for copies retained in routine backups or where retention is required by law.
+
+8. Legal Process
+If legally compelled to disclose confidential information, the receiving party may disclose the legally required portion and, where permitted, provide advance notice.
+
+9. Governing Law
+The agreement is governed by the laws of the fictional State of Example.
+
+10. General
+Any amendment must be in writing and accepted by both parties.
